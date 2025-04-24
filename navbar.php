@@ -36,7 +36,7 @@ $sql="SELECT * FROM `users` WHERE `username`='$user'";
                             <!-- <img src="assets/images/logo-icon.png" alt="homepage" class="dark-logo" /> -->
                             <!-- Light Logo icon -->
                             <!-- <img src="assets/images/logo-light-icon.png" alt="homepage" class="light-logo" /> -->
-                            <h2 class="text-white"><b>Car Rental System</b></h2>
+                            <h2 class="text-white"><b>CMS</b></h2>
                         </b>
                         <!--End Logo icon -->
                         <!-- Logo text -->
